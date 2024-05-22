@@ -1,15 +1,16 @@
-## Boas Vindas ao meu perfil 💙💙
+## Boas Vindas ao meu perfil 💙
 
 Meu nome é Gabrielli Fernanda
 
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Estou estudando no [Alura](https://www.alura.com.br/)
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-Você pode entrar em contato comigo
+### Você entrar em contato comigo 📧
 
-00001079605393sp@al.educacao.sp.gov.br
+00001079605393SP@al.educacao.sp.gov.br
 
 @Gabrielli3B
 
 
-!{_}(https://media1.tenor.com/m/Gav-54IlnzoAAAAC/congratulations-graduates.gif)
+![](https://media1.tenor.com/m/-tquk_v-Y_YAAAAC/emy-d%C3%A9part.gif)
